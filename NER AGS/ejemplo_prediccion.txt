@@ -1,0 +1,44 @@
+Word            Pred           :  (True)
+============================================================
+mayordomo       o              :  (o)
+y               none           :  (none)
+contadores      o              :  (o)
+mayores         o              :  (o)
+de              o              :  (none)
+la              o              :  (none)
+despensa        o              :  (none)
+y               none           :  (none)
+
+
+
+Word            Pred           :  (True)
+============================================================
+de              none           :  (none)
+la              none           :  (none)
+dicha           none           :  (none)
+iglesia         i              :  (i)
+catedral        i              :  (i)
+de              i              :  (i)
+málaga          l              :  (i)
+para            none           :  (none)
+lo              none           :  (none)
+cual            none           :  (none)
+
+
+
+Word            Pred           :  (True)
+============================================================
+del             none           :  (none)
+rey             none           :  (none)
+de              none           :  (none)
+inglaterra      l              :  (c)
+que             none           :  (none)
+a               none           :  (none)
+alguno          none           :  (none)
+de              none           :  (none)
+los             none           :  (none)
+dichos          none           :  (none)
+puertos         none           :  (none)
+ha              none           :  (none)
+de              none           :  (none)
+venir           none           :  (none)
